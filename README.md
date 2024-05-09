@@ -2,7 +2,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Olá, me chamo Rafael Gonçalves Martins</h1>
 <h3 align="center">Desenvolvedor Web</h3>
-(img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif")
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelgoncalvesdev&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelgoncalvesdev" /> </p>
 
