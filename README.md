@@ -1,5 +1,7 @@
 <h1 align="center">Rafael Gonçalves Martins</h1>
 <h3 align="center">Desenvolvedor Web</h3>
+<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/011/166/144/original/devops-banner-web-icon-illustration-concept-for-software-engineering-and-development-with-an-icon-of-a-plan-code-build-test-release-deploy-operate-and-monitor-vector.jpg">
+
 
 - 💡 Estou aprendendo **React, React Native, NodeJs, Arquitetura de Software**
 
